@@ -1,0 +1,11 @@
+EMP_ID,FIRST_NAME,LAST_NAME,GENDER,ROLE,DEPT,EXP,COUNTRY,CONTINENT,SALARY,EMP_RATING,MANAGER_ID,PROJ_ID
+E001,Alice,Smith,Female,Data Scientist,Data Science,5,USA,North America,75000,4,M001,P101
+E002,Bob,Johnson,Male,Analyst,Finance,3,Canada,North America,60000,3,M002,P102
+E003,Charlie,Brown,Male,Manager,Human Resources,10,UK,Europe,90000,5,NULL,NULL
+E004,Diana,Prince,Female,Engineer,Healthcare,7,Germany,Europe,85000,4,M003,P103
+E005,Eve,Davis,Female,Data Scientist,Data Science,2,India,Asia,50000,1,M001,P104
+E006,Frank,White,Male,Associate Data Scientist,Data Science,4,Australia,Australia,65000,2,M001,P105
+E007,Grace,Lee,Female,Manager,Finance,12,USA,North America,100000,5,NULL,NULL
+E008,Henry,Wilson,Male,Junior Data Scientist,Data Science,1,India,Asia,40000,1,M001,P101
+E009,Ivy,Garcia,Female,Data Scientist,Data Science,8,USA,North America,80000,4,M001,P103
+E010,Jack,Miller,Male,Marketing Specialist,Marketing,6,France,Europe,70000,3,M004,P106

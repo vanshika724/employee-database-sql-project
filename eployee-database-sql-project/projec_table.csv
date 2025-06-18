@@ -1,0 +1,7 @@
+PROJECT_ID,PROJ_Name,DOMAIN,START_DATE,CLOSURE_DATE,DEV_QTR,STATUS
+P101,Fraud Detection System,Finance,2023-01-15,2023-06-30,Q2,Completed
+P102,Market Basket Analysis,Retail,2023-03-01,2023-09-15,Q3,In Progress
+P103,Lung Cancer Detection,Healthcare,2023-02-10,2024-01-20,Q1,In Progress
+P104,Self-Driving Car AI,Automotive,2023-05-01,2024-05-01,Q2,Pending
+P105,Supply Chain Optimization,Logistics,2023-04-20,2023-12-31,Q4,In Progress
+P106,Customer Sentiment Analysis,Marketing,2023-06-01,2024-03-01,Q3,Pending
